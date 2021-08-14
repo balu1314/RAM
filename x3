@@ -1,0 +1,5 @@
+How to switch newley created branch
+-> git checkot Branch name
+ex:- git checkout polarapu
+Now we are in polarapu branch 
+Please observe the below figure

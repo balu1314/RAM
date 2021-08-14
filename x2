@@ -1,0 +1,5 @@
+By default Branch name is master
+-> git branch ( To list all Branches )
+-> git branch branchname
+ex:- git branch polarapu
+-> git branch --list or git branch
